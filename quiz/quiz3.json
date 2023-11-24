@@ -1,0 +1,141 @@
+{
+  "quiz_name": "Quiz sur Napoléon Bonaparte",
+  "quiz_description": "Testez vos connaissances sur la vie et la carrière de Napoléon Bonaparte.",
+  "questions": [
+    {
+      "question": "Quand est né Napoléon Bonaparte ?",
+      "choices": ["1769", "1799", "1804", "1821"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle était la profession du père de Napoléon ?",
+      "choices": ["Avocat", "Militaire", "Médecin", "Instituteur"],
+      "answer_index": 0
+    },
+    {
+      "question": "Où est né Napoléon Bonaparte ?",
+      "choices": ["Ajaccio", "Paris", "Londres", "Rome"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle campagne militaire est souvent qualifiée de 'bataille des Trois Empereurs' ?",
+      "choices": ["Austerlitz", "Waterloo", "Tilsit", "Leipzig"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle était la principale cause de la chute de Napoléon en 1815 ?",
+      "choices": ["Défaite à Waterloo", "Révolution en France", "Maladie grave", "Exil volontaire"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel accord a rétabli les relations entre l'Église catholique et l'État en France sous Napoléon ?",
+      "choices": ["Concordat", "Traité de Tilsit", "Accord de Vienne", "Pacte de non-agression"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel nom est associé au code de lois civiles introduit par Napoléon en 1804 ?",
+      "choices": ["Code Napoléon", "Code Révolutionnaire", "Code Impérial", "Code Français"],
+      "answer_index": 0
+    },
+    {
+      "question": "Dans quelle île Napoléon a-t-il été exilé après sa défaite à Waterloo ?",
+      "choices": ["Sainte-Hélène", "Elbe", "Corse", "Malte"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle était la profession du père de Napoléon ?",
+      "choices": ["Avocat", "Militaire", "Médecin", "Instituteur"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle était la principale cause de la chute de Napoléon en 1815 ?",
+      "choices": ["Défaite à Waterloo", "Révolution en France", "Maladie grave", "Exil volontaire"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle campagne militaire a marqué le début de la fin pour Napoléon en 1813 ?",
+      "choices": ["Bataille de Leipzig", "Campagne de Russie", "Campagne d'Égypte", "Campagne d'Italie"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle est la principale réforme économique attribuée à Napoléon ?",
+      "choices": ["Création de la Banque de France", "Réforme agraire", "Développement de l'industrie textile", "Réduction des impôts"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel événement a marqué le retour de Napoléon au pouvoir pendant les Cent-Jours en 1815 ?",
+      "choices": ["Évasion de l'île d'Elbe", "Révolution en France", "Révolte des soldats", "Nouveau coup d'État"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel surnom a été donné à Napoléon après sa victoire à Austerlitz ?",
+      "choices": ["Napoléon le Grand", "Le Conquérant", "Le Réformateur", "Le Dictateur"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle île isolée a été le lieu de l'exil final de Napoléon où il est décédé ?",
+      "choices": ["Sainte-Hélène", "Elbe", "Corse", "Malte"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle campagne militaire a abouti au traité de Tilsit en 1807 ?",
+      "choices": ["Prusse et Pologne", "Égypte", "Italie", "Espagne"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel est le nom du livre dans lequel Napoléon a raconté ses campagnes militaires et sa vision de l'histoire pendant son exil ?",
+      "choices": ["Mémoires de Sainte-Hélène", "Le Code Napoléon", "Les Conquêtes de Napoléon", "Napoléon le Grand"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel traité a redessiné les frontières européennes après la chute de Napoléon en 1814-1815 ?",
+      "choices": ["Congrès de Vienne", "Traité de Tilsit", "Accord de Paris", "Pacte de non-agression"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle est la principale campagne militaire en Russie qui a marqué un tournant décisif dans la carrière de Napoléon ?",
+      "choices": ["Campagne de Russie", "Campagne d'Égypte", "Campagne de Prusse et Pologne", "Campagne d'Italie"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel accord a été signé avec l'Église catholique pour rétablir les relations entre l'Église et l'État en France sous Napoléon ?",
+      "choices": ["Concordat", "Traité de Tilsit", "Accord de Vienne", "Pacte de non-agression"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel événement a marqué la fin du règne de Napoléon en tant qu'empereur en 1814 ?",
+      "choices": ["Invasion de la France par les puissances européennes", "Démission volontaire", "Révolution en France", "Défaite à Austerlitz"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle était la principale campagne militaire en Russie qui a marqué un tournant décisif dans la carrière de Napoléon ?",
+      "choices": ["Campagne de Russie", "Campagne d'Égypte", "Campagne de Prusse et Pologne", "Campagne d'Italie"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel accord a été signé avec l'Église catholique pour rétablir les relations entre l'Église et l'État en France sous Napoléon ?",
+      "choices": ["Concordat", "Traité de Tilsit", "Accord de Vienne", "Pacte de non-agression"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel événement a marqué la fin du règne de Napoléon en tant qu'empereur en 1814 ?",
+      "choices": ["Invasion de la France par les puissances européennes", "Démission volontaire", "Révolution en France", "Défaite à Austerlitz"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel surnom a été donné à Napoléon après sa victoire à Austerlitz ?",
+      "choices": ["Napoléon le Grand", "Le Conquérant", "Le Réformateur", "Le Dictateur"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel est le nom du livre dans lequel Napoléon a raconté ses campagnes militaires et sa vision de l'histoire pendant son exil ?",
+      "choices": ["Mémoires de Sainte-Hélène", "Le Code Napoléon", "Les Conquêtes de Napoléon", "Napoléon le Grand"],
+      "answer_index": 0
+    },
+    {
+      "question": "Quel traité a redessiné les frontières européennes après la chute de Napoléon en 1814-1815 ?",
+      "choices": ["Congrès de Vienne", "Traité de Tilsit", "Accord de Paris", "Pacte de non-agression"],
+      "answer_index": 0
+    }
+  ]
+}

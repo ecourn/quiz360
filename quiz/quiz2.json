@@ -1,0 +1,36 @@
+{
+  "quiz_name": "Quiz de Culture Générale V2",
+  "quiz_des": "Lorem ipsum dolor sit amet. V2",
+  "questions": [
+    {
+      "question": "Quel est le fleuve le plus long du monde ?",
+      "choices": ["Nil", "Amazone", "Yangtsé", "Mississippi"],
+      "answer_index": 1
+    },
+    {
+      "question": "Qui est l'auteur de 'La Divine Comédie' ?",
+      "choices": [
+        "Dante Alighieri",
+        "William Shakespeare",
+        "Homère",
+        "Virgile"
+      ],
+      "answer_index": 0
+    },
+    {
+      "question": "Quelle année a vu le début de la Révolution Française ?",
+      "choices": ["1789", "1799", "1776", "1804"],
+      "answer_index": 0
+    },
+    {
+      "question": "Qui a peint 'La Joconde' ?",
+      "choices": [
+        "Vincent Van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
